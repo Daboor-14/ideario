@@ -18,10 +18,19 @@ Available in English and العربية on Windows, Mac and iPad.
 On iPad, open the link in Safari, then choose **Share → Add to Home Screen**.
 Your boards stay on your device. Use Settings → Back up to save a copy.
 
+### Upgrading an older copy
+
+Versions 1.2.x and 1.3.x use the former GitHub account address and need a one-time manual
+upgrade: back up your boards, download the latest installer above, and install it over your
+existing copy. Versions 1.4.0 and newer use the current update address.
+
 ## تحميل البرنامج
 
 حمّل النسخة المناسبة لجهازك من [صفحة الإصدارات](https://github.com/Daboor-14/ideario/releases/latest).
 على الآيباد افتح [Ideario](https://daboor-14.github.io/ideario/) في Safari، ثم اختر مشاركة ← إضافة إلى الشاشة الرئيسية.
+
+لو نسختك 1.2 أو 1.3، احفظ نسخة احتياطية من لوحاتك وثبّت آخر إصدار فوق نسختك الحالية مرة واحدة،
+لأن عنوان التحديث القديم لم يعد متاحًا. إصدارات 1.4.0 وما بعدها تستخدم عنوان التحديث الحالي.
 
 ## About this repository
 
